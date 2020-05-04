@@ -6,9 +6,9 @@
 ## 코딩테스트 도장깨기 (진행중)
 ### 프로그래머스 [여기](https://programmers.co.kr/learn/challenges)
 - 코딩테스트에서 자주 나오는 유형 [여기](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
-- ~~해시~~ (Done) 
-- ~~정렬~~ (Done)
-- 완전 탐색
+- ~~해시~~ (Done) set, collections.Counter, dict.items(), {k: v for k, v in dict.items(), key=lambda..... }
+- ~~정렬~~ (Done) sorted(key) 함수 사용법, str에서의 sort 작동방식, 인덱싱
+- 완전 탐색 (ing) filter 함수 사용법,
 - DFS/BFS
 - 스택/큐
 - 힙

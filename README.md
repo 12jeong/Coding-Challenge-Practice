@@ -12,11 +12,11 @@
 - ~~해시~~ (Done) set, collections.Counter, dict.items(), {k: v for k, v in dict.items(), key=lambda..... }
 - ~~정렬~~ (Done) sorted(key) 함수 사용법, str에서의 sort 작동방식, 인덱싱
 - ~~완전 탐색~~ (Done) filter 함수 사용법
-- DFS/BFS
+- DFS/BFS (ing)
 - 스택/큐
 - 힙
 - 탐욕법
 - 동적계획법
-- 이분탐색 
+- 이분탐색 (ing)
 
 
